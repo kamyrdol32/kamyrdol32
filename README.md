@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @kamyrdol32<br>⚡ I’m Python (Web) Developer<br>🔭 I’m currently working on "DivEye" application<br>🌱 I’m currently learning Angular
+👋 Hi, I’m @kamyrdol32<br>⚡ I’m Python (Web) Developer<br>🔭 I’m currently working on "Mobirel" application<br>🌱 I’m currently learning Angular
 
 
 ## 🌐 Socials:

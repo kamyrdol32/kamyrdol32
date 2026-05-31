@@ -2,7 +2,7 @@
 
 FullStack Developer specializing in Angular, NestJS and PostgreSQL.
 
-I focus on building scalable business applications, REST APIs and complex web systems with strong emphasis on maintainability, performance and user experience.
+Building scalable business applications, REST APIs and complex web systems with focus on maintainability, performance and user experience.
 
 Most of my professional work was developed in commercial environments and cannot be shared publicly. Public repositories mainly contain personal projects and selected examples.
 
@@ -59,16 +59,6 @@ Most of my professional work was developed in commercial environments and cannot
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=kamyrdol32&show_icons=true&theme=transparent&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kamyrdol32&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamyrdol32&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## 📈 Current Focus
 
 - Angular architecture
@@ -81,3 +71,15 @@ Most of my professional work was developed in commercial environments and cannot
 ---
 
 ⭐ Open to Angular, Frontend and FullStack opportunities.
+
+---
+
+## 📊 Stats
+
+<a href="https://app.daily.dev/kamyrdol32"><img src="https://github.com/kamyrdol32/kamyrdol32/blob/main/devcard.svg" width="400" alt="Kamil Żegleń's Dev Card"/></a>
+
+![](https://github-readme-stats.vercel.app/api?username=kamyrdol32&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamyrdol32&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamyrdol32&layout=compact&theme=transparent&hide_border=true)
